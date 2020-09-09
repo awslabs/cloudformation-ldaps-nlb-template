@@ -1,5 +1,5 @@
 ## Configure an LDAPS Endpoint for Simple AD
-CloudFormation Template that creates a NLB for TLS termination of LDAPS traffic versus Simple AD. Please review [the complete blog post](https://aws.amazon.com/blogs/security/how-to-configure-an-ldaps-endpoint-for-simple-ad/) for additional details about this solution.
+CloudFormation Template that creates a NLB for TLS termination of LDAPS traffic versus Simple AD. Please review [the complete blog post](https://aws.amazon.com/blogs/security/how-to-configure-ldaps-endpoint-for-simple-ad/) for additional details about this solution.
 
 ### Solution Diagram
 ![](https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2020/09/03/Configure-LDAPS-Simple-AD-Figure-1.png)
